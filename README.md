@@ -11,11 +11,10 @@ To get started with the MyTasks application, follow these steps:
 1. Clone the repository to your local machine.
 2. Install the necessary dependencies by running npm install in your terminal.
 3. Start the application by running npm start in your terminal:
-
-git clone https://github.com/your-username/MyTasks.git
-cd MyTasks
-npm install
-npm start
+     git clone https://github.com/your-username/MyTasks.git
+     cd MyTasks
+     npm install
+     npm start
 
 Once the application is running, you can access it by navigating to http://localhost:3000 in your web browser.
 
